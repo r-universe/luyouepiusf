@@ -5,6 +5,9 @@
 [submodule "DySS"]
 	path = DySS
 	url = https://github.com/cran/DySS
+[submodule "IntervalCensoredMultistateR2"]
+	path = IntervalCensoredMultistateR2
+	url = https://github.com/cran/IntervalCensoredMultistateR2
 [submodule "SurvivalClusteringTree"]
 	path = SurvivalClusteringTree
 	url = https://github.com/luyouepiusf/survivalclusteringtree
